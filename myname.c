@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("hello world");
+    printf("你好 曾奎允");
 }
